@@ -1,2 +1,2 @@
 # Atividades-Iniciais
- Repositório para atividades para aprendizado inicial
+ Repositório de atividades para aprendizado inicial
